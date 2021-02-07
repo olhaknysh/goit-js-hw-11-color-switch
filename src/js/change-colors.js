@@ -1,7 +1,5 @@
 import { colors } from './colors';
 
-console.log(colors);
-
 const refs = {
   btnStart: document.querySelector('button[data-action=start]'),
   btnStop: document.querySelector('button[data-action=stop]'),
